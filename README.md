@@ -66,7 +66,7 @@ You can verify you got the real file — every release lists the installer's SHA
 Check yours before running it:
 
 ```powershell
-Get-FileHash .\Adyton_Crypt_Setup_v1.0.3.exe -Algorithm SHA256
+Get-FileHash .\Adyton_Crypt_Setup_v1.0.4.exe -Algorithm SHA256
 ```
 
 ## Support
